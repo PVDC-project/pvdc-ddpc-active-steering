@@ -6,6 +6,8 @@ src_cm4sl/data
 Movie/
 SimOutput/
 
+*.tmp*
+
 *slprj*
 *.slxc
 
