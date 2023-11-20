@@ -1,12 +1,12 @@
 src_cm4sl/data
 src_cm4sl/examples
 src_cm4sl/figures
-src_cm4sl/data
 
 Movie/
 SimOutput/
 
 *.tmp*
+*.sce
 
 *slprj*
 *.slxc
