@@ -1,6 +1,6 @@
 %% Simulation setup
 clear;clc;close all;
-cd 'C:\Users\LAMES Workstation\Documents\Projects_Josip\PVDC_DDPC_steering\src_cm4sl\'
+cd 'C:\Projects_Josip\pvdc-ddpc-active-steering\src_cm4sl\'
 
 % MPC cost function weights
 global Q R
