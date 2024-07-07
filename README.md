@@ -1,4 +1,5 @@
-# PVDC_DDPC_steering
+# Autonomous path following using data-driven predictive control
+
 
 This repository contains the MATLAB/Simulink scripts and CarMaker files for implementing the algorithm described in [this paper](https://ieeexplore.ieee.org/document/10308482).
 
